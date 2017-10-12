@@ -1,8 +1,7 @@
-ngs
+pairSeq
 ===
 
-Tools for handeling and analysing High throughput sequencing data
-
+Tool for identifying pairs of reads in paired end sequence data.
 
 Usage:		pairSeq.py <inFile_1> <inFile_2>
 
